@@ -1,2 +1,2 @@
 # Bikcraft
-Site Bikcraft curso web design
+Site Bikcraft do curso Web Design da Origamid
